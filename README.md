@@ -1,4 +1,5 @@
-#Photography Website
+#Photography Website.
+
 This website is dedicated to host pictures about food and was inspired by pinterest.
 Features
 
