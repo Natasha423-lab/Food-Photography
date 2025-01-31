@@ -1,112 +1,117 @@
 * {
-    margin: 0;
-    padding: 0px
+  margin: 0;
+  padding: 0px;
 }
 
 header {
-    background-color: black;
-    color: white;
-    padding: 30px;
-    font-size: larger;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    align-items: centre;
-    justify-content: space-between;
+  background-color: black;
+  color: white;
+  padding: 30px;
+  font-size: larger;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  align-items: centre;
+  justify-content: space-between;
 }
 
 nav ul {
-    display: flex;
-    gap: 20px;
-    list-style-type: none;
-    justify-content: flex-end;
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  justify-content: flex-end;
 }
 
 nav ul li {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .one {
-    height: 100px;
-    background-color: gold;
-    display: flex;
-    gap: 5px;
-    justify-content: space-evenly;
-    justify-items: center;
-    border:
+  height: 150px;
+  background-color: gold;
+  display: flex;
+  gap: 5px;
+  justify-content: space-evenly;
+  justify-items: center;
+}
+h2 {
+  font-size: 30px;
 }
 
 .two {
-    height: 500px;
-    background-color: gold;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    justify-content: space-evenly;
+  height: 500px;
+  background-color: gold;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-evenly;
 }
 
 img {
-    width: 200px;
-    height: 350px;
-    border-radius: 100px;
+  width: 200px;
+  height: 350px;
+  border-radius: 100px;
 }
 
 .three {
-    height: 500px;
-    background-color: gold;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    justify-content: space-evenly;
+  height: 500px;
+  background-color: gold;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-evenly;
 }
 
 h1 {
-    font-style: normal;
-    text-decoration-line: inherit;
-    font-size: 40px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-style: normal;
+  text-decoration-line: inherit;
+  font-size: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .four {
-    background-color: gold;
+  background-color: gold;
 }
 
 form {
-    width: 1500px;
-    margin: auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: gold;
-    height: 500px;
-    float: left
+  width: 1500px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: gold;
+  height: 500px;
+  float: left;
 }
 
 label {
-    display: block;
-    margin-bottom: 8px;
-    font-weight: bold;
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
 }
 
 input,
 textarea,
 select,
 button {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
 button {
-    background-color: black;
-    color: white;
-    font-size: 16px;
+  background-color: black;
+  color: white;
+  font-size: 16px;
 }
 
 p {
-    font-size: larger;
+  font-size: larger;
 }
 
 footer {
-    background-color: black;
+  background-color: black;
+}
+p {
+  font-size: larger;
 }
