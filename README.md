@@ -1,3 +1,10 @@
+# Project name
+
+Photography Website
+
+# Project Description
+
+This website is dedicated to photos of food that were inspired by pinterest
 
 # Technologies used
 
