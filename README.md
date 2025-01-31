@@ -1,20 +1,3 @@
-# Project Name
-
-Photography Website
-
-# Project Description
-
-This website is dedicated to posting photos about food.
-
-# Author information
-
-Natasha Ongera
-
-# Set-up Instructions
-
-1.Clone this repository.
-2.Open index.html in your web browser
-3.You will be able to see on your browser the food phootography website.
 
 # Technologies used
 
